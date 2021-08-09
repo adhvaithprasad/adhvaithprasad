@@ -3,7 +3,7 @@ Welcome to this is great profile, I am Adhvaith and I love making websites
 
 
 # stats
-![Firescrypt's GitHub stats](https://github-readme-stats.vercel.app/api?username=firescrypt&show_icons=true&theme=cobalt)
+![Firescrypt's GitHub stats](https://github-readme-stats.vercel.app/api?username=firescrypt&show_icons=true)
 
 
 # I am currently working on
