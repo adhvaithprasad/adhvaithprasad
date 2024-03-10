@@ -6,4 +6,4 @@ I am also a huge fan of 🤖 robotics and I have participated in many robotics c
 - 💽 I have made a full fledged JSON database called [xenialdb](https://github.com/adhvaithprasad/xenial-database)  - https://www.npmjs.com/package/xenialdb
 - 💬 I have also made a chat application - https://github.com/adhvaithprasad/chat-for-firestudio
 #### **Stats**
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=adhvaithprasad&show_icons=true\&theme=dark#gh-dark-mode-only"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=adhvaithprasad&show_icons=true"/></p>
